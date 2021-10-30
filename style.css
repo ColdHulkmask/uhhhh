@@ -1,0 +1,73 @@
+body {
+  background-image:  linear-gradient(black,darkblue)
+}
+p {
+  color: white;
+  text-align: left;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+  font-size: 35px;
+}
+.navigation {
+  text-align: center
+}
+img {
+  width: 500px;
+  
+}
+h6 {
+  font-weight: bold;
+  text-align: right;
+  text-decoration: underline;
+  color: white;
+  font-size: 10px;
+}
+h2 {
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+  font-size: 25px;
+}
+a {
+  color:blueviolet;
+  text-decoration: underline;
+}
+table {
+  color:white;
+  align-content: center;
+}
+tr {
+  color:white;
+}
+th {
+  color: white;
+}
+td {
+  color:white;
+  text-transform: capitalize
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
